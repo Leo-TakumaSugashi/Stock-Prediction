@@ -1,5 +1,5 @@
 LAST UPDATE : May 1st. 2025
-# ***STOCK - Prediction ***
+# *** STOCK - Prediction ***
 ---
 ## Summary
 -Let's explore machine-based stock forecasting. (Under development)
@@ -71,8 +71,6 @@ and
 
 </pre>
 
-
-
 ## Features (Planned)
  - *LSTM-based time series forecasting
  - Sentiment analysis from Twitter/News
@@ -93,6 +91,9 @@ and
 
 ## How to Run
 ```bash
+#!bin/bash 
+# See also timer_main.sh
+
 # Python code name.
 pycode1="TS_ScrapeHistoricalData_1.py"
 pycode2="TS_main_par_addFig.py"
@@ -142,7 +143,7 @@ python makeTable.py
 **These will be necessary commands in the future.**
 
 ## Contact
-Leo-Takuma SUGASHI
-[GitHub Profile](https://github.com/Leo-TakumaSugashi)
+Leo-Takuma SUGASHI  
+[GitHub Profile](https://github.com/Leo-TakumaSugashi)  
 Mail : oshou.0131@gmail.com
 
