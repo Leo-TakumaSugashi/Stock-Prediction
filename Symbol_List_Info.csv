@@ -1,0 +1,346 @@
+Index,Symbol,Name,Market,Sector,FullName
+0,Nasdaq Futures,,,,
+1,MDB,"MongoDB, Inc.",,Technology,"MongoDB, Inc."
+2,CRI,"Carter's, Inc.",,Consumer Cyclical,"Carter's, Inc."
+3,IEP,Icahn Enterprises L.P. - Deposi,,Energy,Icahn Enterprises L.P.
+4,CPAY,"Corpay, Inc.",,Technology,"Corpay, Inc."
+5,ROIV,Roivant Sciences Ltd.,,Healthcare,Roivant Sciences Ltd.
+6,GILD,"Gilead Sciences, Inc.",,Healthcare,"Gilead Sciences, Inc."
+7,UAA,"Under Armour, Inc.",,Consumer Cyclical,"Under Armour, Inc."
+8,ZK,ZEEKR Intelligent Technology Ho,,Consumer Cyclical,ZEEKR Intelligent Technology Holding Limited
+9,KEY,KeyCorp,,Financial Services,KeyCorp
+10,LI,Li Auto Inc.,,Consumer Cyclical,Li Auto Inc.
+11,RNMBY,Rheinmetall AG,,Industrials,Rheinmetall AG
+12,CX,"Cemex, S.A.B. de C.V. Sponsored",,Basic Materials,"CEMEX, S.A.B. de C.V."
+13,AMCR,Amcor plc,,Consumer Cyclical,Amcor plc
+14,BTG,B2Gold Corp,,Basic Materials,B2Gold Corp.
+15,CCL,Carnival Corporation,,Consumer Cyclical,Carnival Corporation & plc
+16,AAPL,Apple Inc.,,Technology,Apple Inc.
+17,FHN,First Horizon Corporation,,Financial Services,First Horizon Corporation
+18,TEAM,Atlassian Corporation,,Technology,Atlassian Corporation
+19,GSAT,"Globalstar, Inc.",,Communication Services,"Globalstar, Inc."
+20,CAVA,"CAVA Group, Inc.",N/A,Consumer Cyclical,"CAVA Group, Inc."
+21,WBA,"Walgreens Boots Alliance, Inc.",,Healthcare,"Walgreens Boots Alliance, Inc."
+22,PDD,PDD Holdings Inc.,,Consumer Cyclical,PDD Holdings Inc.
+23,RIVN,"Rivian Automotive, Inc.",,Consumer Cyclical,"Rivian Automotive, Inc."
+24,ZIM,ZIM Integrated Shipping Service,,Industrials,ZIM Integrated Shipping Services Ltd.
+25,BILI,Bilibili Inc.,,Communication Services,Bilibili Inc.
+26,TSLA,"Tesla, Inc.",,Consumer Cyclical,"Tesla, Inc."
+27,DKNG,DraftKings Inc.,,Consumer Cyclical,DraftKings Inc.
+28,NKE,"Nike, Inc.",,Consumer Cyclical,"NIKE, Inc."
+29,ITUB,Itau Unibanco Banco Holding SA,,Financial Services,Itaú Unibanco Holding S.A.
+30,ETH-USD,Ethereum USD,N/A,N/A,Ethereum USD
+31,PINS,"Pinterest, Inc.",,Communication Services,"Pinterest, Inc."
+32,GDS,GDS Holdings Limited,,Technology,GDS Holdings Limited
+33,INTC,Intel Corporation,,Technology,Intel Corporation
+34,Nasdaq,,,,
+35,TME,Tencent Music Entertainment Gro,,Communication Services,Tencent Music Entertainment Group
+36,INFY,Infosys Limited,,Technology,Infosys Limited
+37,FTV,Fortive Corporation,,Technology,Fortive Corporation
+38,VTRS,Viatris Inc.,,Healthcare,Viatris Inc.
+39,DOC,"Healthpeak Properties, Inc.",,Real Estate,"Healthpeak Properties, Inc."
+40,ZI,ZoomInfo Technologies Inc.,,Technology,ZoomInfo Technologies Inc.
+41,MSTR,MicroStrategy Incorporated,,Technology,MicroStrategy Incorporated
+42,WULF,TeraWulf Inc.,,Financial Services,TeraWulf Inc.
+43,SLB,Schlumberger N.V.,,Energy,Schlumberger Limited
+44,AFRM,"Affirm Holdings, Inc.",,Technology,"Affirm Holdings, Inc."
+45,CRM,"Salesforce, Inc.",N/A,Technology,"Salesforce, Inc."
+46,VOD,Vodafone Group Plc,,Communication Services,Vodafone Group Public Limited Company
+47,SYM,Symbotic Inc.,,Industrials,Symbotic Inc.
+48,SQ,"Block, Inc.",,Technology,"Block, Inc."
+49,SHOP,Shopify Inc.,,Technology,Shopify Inc.
+50,SMMT,Summit Therapeutics Inc.,,Healthcare,Summit Therapeutics Inc.
+51,UEC,Uranium Energy Corp.,,Energy,Uranium Energy Corp.
+52,ZBRA,Zebra Technologies Corporation,,Technology,Zebra Technologies Corporation
+53,NUVL,"Nuvalent, Inc.",,Healthcare,"Nuvalent, Inc."
+54,VZ,Verizon Communications Inc.,,Communication Services,Verizon Communications Inc.
+55,BHVN,Biohaven Ltd.,,Healthcare,Biohaven Ltd.
+56,RBLX,Roblox Corporation,,Communication Services,Roblox Corporation
+57,NBIS,Nebius Group N.V.,N/A,Communication Services,N/A
+58,ELAN,Elanco Animal Health Incorporat,,Healthcare,Elanco Animal Health Incorporated
+59,SMCI,"Super Micro Computer, Inc.",,Technology,"Super Micro Computer, Inc."
+60,NTAP,"NetApp, Inc.",,Technology,"NetApp, Inc."
+61,EBAY,eBay Inc.,,Consumer Cyclical,eBay Inc.
+62,IAG,Iamgold Corporation,,Basic Materials,IAMGOLD Corporation
+63,PSNY,Polestar Automotive Holding UK ,,Consumer Cyclical,Polestar Automotive Holding UK PLC
+64,XOM,Exxon Mobil Corporation,,Energy,Exxon Mobil Corporation
+65,MU,"Micron Technology, Inc.",,Technology,"Micron Technology, Inc."
+66,GDDY,GoDaddy Inc.,,Technology,GoDaddy Inc.
+67,BBD,Banco Bradesco Sa,,Financial Services,Banco Bradesco S.A.
+68,AES,The AES Corporation,,Utilities,The AES Corporation
+69,NCLH,Norwegian Cruise Line Holdings ,,Consumer Cyclical,Norwegian Cruise Line Holdings Ltd.
+70,RNA,"Avidity Biosciences, Inc.",N/A,Healthcare,"Avidity Biosciences, Inc."
+71,VERA,"Vera Therapeutics, Inc.",N/A,Healthcare,"Vera Therapeutics, Inc."
+72,SBSW,D/B/A Sibanye-Stillwater Limite,,Basic Materials,Sibanye Stillwater Limited
+73,PATH,"UiPath, Inc.",,Technology,UiPath Inc.
+74,TLN,Talen Energy Corporation,,Utilities,Talen Energy Corporation
+75,KSS,Kohl's Corporation,,Consumer Cyclical,Kohl's Corporation
+76,NU,Nu Holdings Ltd.,,Financial Services,Nu Holdings Ltd.
+77,GOLD,Barrick Gold Corporation,,Basic Materials,Barrick Gold Corporation
+78,GLMD,Galmed Pharmaceuticals Ltd.,,Healthcare,Galmed Pharmaceuticals Ltd.
+79,SAIA,"Saia, Inc.",N/A,Industrials,"Saia, Inc."
+80,CVX,Chevron Corporation,,Energy,Chevron Corporation
+81,TSM,Taiwan Semiconductor Manufactur,,Technology,Taiwan Semiconductor Manufacturing Company Limited
+82,BAC,Bank of America Corporation,,Financial Services,Bank of America Corporation
+83,WFC,Wells Fargo & Company,,Financial Services,Wells Fargo & Company
+84,ADBE,Adobe Inc.,,Technology,Adobe Inc.
+85,CZR,"Caesars Entertainment, Inc.",,Consumer Cyclical,"Caesars Entertainment, Inc."
+86,MANH,"Manhattan Associates, Inc.",,Technology,"Manhattan Associates, Inc."
+87,CG,The Carlyle Group Inc.,,Financial Services,The Carlyle Group Inc.
+88,CNH,CNH Industrial N.V.,,Industrials,CNH Industrial N.V.
+89,GLW,Corning Incorporated,,Technology,Corning Incorporated
+90,HL,Hecla Mining Company,,Basic Materials,Hecla Mining Company
+91,PBR,Petroleo Brasileiro S.A.- Petro,,Energy,Petróleo Brasileiro S.A. - Petrobras
+92,EWTX,"Edgewise Therapeutics, Inc.",N/A,Healthcare,"Edgewise Therapeutics, Inc."
+93,S&P Futures,,,,
+94,ARM,Arm Holdings plc,,Technology,Arm Holdings plc
+95,DXCM,"DexCom, Inc.",,Healthcare,"DexCom, Inc."
+96,TEO,Telecom Argentina SA,N/A,Communication Services,Telecom Argentina S.A.
+97,TBBK,"The Bancorp, Inc.",,Financial Services,"The Bancorp, Inc."
+98,PLTR,Palantir Technologies Inc.,,Technology,Palantir Technologies Inc.
+99,SIRI,SiriusXM Holdings Inc.,,Communication Services,Sirius XM Holdings Inc.
+100,ADI,"Analog Devices, Inc.",,Technology,"Analog Devices, Inc."
+101,JNPR,"Juniper Networks, Inc.",,Technology,"Juniper Networks, Inc."
+102,SOUN,"SoundHound AI, Inc.",N/A,Technology,"SoundHound AI, Inc."
+103,KDP,Keurig Dr Pepper Inc.,,Consumer Defensive,Keurig Dr Pepper Inc.
+104,SNMYF,SUNCORP GROUP LIMITED,,Financial Services,Suncorp Group Limited
+105,IBRX,"ImmunityBio, Inc.",,Healthcare,"ImmunityBio, Inc."
+106,MRK,"Merck & Company, Inc.",,Healthcare,"Merck & Co., Inc."
+107,ABEV,Ambev S.A.,,Consumer Defensive,Ambev S.A.
+108,DJTWW,Trump Media & Technology Group ,,Communication Services,Trump Media & Technology Group Corp.
+109,HBI,Hanesbrands Inc.,,Consumer Cyclical,Hanesbrands Inc.
+110,CDE,"Coeur Mining, Inc.",,Basic Materials,"Coeur Mining, Inc."
+111,ENPH,"Enphase Energy, Inc.",,Technology,"Enphase Energy, Inc."
+112,PEP,"Pepsico, Inc.",,Consumer Defensive,"PepsiCo, Inc."
+113,MGRC,McGrath RentCorp,N/A,Industrials,McGrath RentCorp
+114,PAGS,PagSeguro Digital Ltd.,,Technology,PagSeguro Digital Ltd.
+115,AVGO,Broadcom Inc.,,Technology,Broadcom Inc.
+116,VST,Vistra Corp.,,Utilities,Vistra Corp.
+117,ROKU,"Roku, Inc.",,Communication Services,"Roku, Inc."
+118,RKLB,"Rocket Lab USA, Inc.",,Industrials,"Rocket Lab USA, Inc."
+119,FTNT,"Fortinet, Inc.",,Technology,"Fortinet, Inc."
+120,BABA,Alibaba Group Holding Limited,,Consumer Cyclical,Alibaba Group Holding Limited
+121,NXPI,NXP Semiconductors N.V.,,Technology,NXP Semiconductors N.V.
+122,VICI,VICI Properties Inc.,,Real Estate,VICI Properties Inc.
+123,ALGM,"Allegro MicroSystems, Inc.",N/A,Technology,"Allegro MicroSystems, Inc."
+124,BA,Boeing Company (The),,Industrials,The Boeing Company
+125,PINXF,THE PEOPLE S INSURANCE COMPANY ,,Financial Services,The People's Insurance Company (Group) of China Limited
+126,NWL,Newell Brands Inc.,,Consumer Defensive,Newell Brands Inc.
+127,BR,"Broadridge Financial Solutions,",,Technology,"Broadridge Financial Solutions, Inc."
+128,GME,GameStop Corporation,,Consumer Cyclical,GameStop Corp.
+129,SWN,Southwestern Energy Company,,Energy,Southwestern Energy Company
+130,X,United States Steel Corporation,,Basic Materials,United States Steel Corporation
+131,HPE,Hewlett Packard Enterprise Comp,,Technology,Hewlett Packard Enterprise Company
+132,MPWR,"Monolithic Power Systems, Inc.",,Technology,"Monolithic Power Systems, Inc."
+133,XPEV,XPeng Inc.,,Consumer Cyclical,XPeng Inc.
+134,MSI,"Motorola Solutions, Inc.",,Technology,"Motorola Solutions, Inc."
+135,TAL,TAL Education Group,,Consumer Defensive,TAL Education Group
+136,HOOD,"Robinhood Markets, Inc.",,Financial Services,"Robinhood Markets, Inc."
+137,BEKE,KE Holdings Inc,,Real Estate,KE Holdings Inc.
+138,DYN,"Dyne Therapeutics, Inc.",N/A,Healthcare,"Dyne Therapeutics, Inc."
+139,AA,Alcoa Corporation,,Basic Materials,Alcoa Corporation
+140,BTC-USD,Bitcoin USD,,,Bitcoin USD
+141,ORCL,Oracle Corporation,,Technology,Oracle Corporation
+142,STLA,Stellantis N.V.,,Consumer Cyclical,Stellantis N.V.
+143,LUNR,"Intuitive Machines, Inc.",,Industrials,"Intuitive Machines, Inc."
+144,IBM,International Business Machines,,Technology,International Business Machines Corporation
+145,NVDA,NVIDIA Corporation,,Technology,NVIDIA Corporation
+146,RUN,Sunrun Inc.,,Technology,Sunrun Inc.
+147,EW,Edwards Lifesciences Corporatio,,Healthcare,Edwards Lifesciences Corporation
+148,ONON,On Holding AG,N/A,Consumer Cyclical,On Holding AG
+149,COP,ConocoPhillips,,Energy,ConocoPhillips
+150,KO,Coca-Cola Company (The),,Consumer Defensive,The Coca-Cola Company
+151,PR,Permian Resources Corporation,,Energy,Permian Resources Corporation
+152,MNST,Monster Beverage Corporation,,Consumer Defensive,Monster Beverage Corporation
+153,BZ,KANZHUN LIMITED - American Depo,,Communication Services,Kanzhun Limited
+154,MRNA,"Moderna, Inc.",,Healthcare,"Moderna, Inc."
+155,Russell 2000 Futures,,,,
+156,KEYS,Keysight Technologies Inc.,,Technology,"Keysight Technologies, Inc."
+157,EVGO,EVgo Inc.,N/A,Consumer Cyclical,"EVgo, Inc."
+158,COIN,"Coinbase Global, Inc.",,Financial Services,"Coinbase Global, Inc."
+159,NEE,"NextEra Energy, Inc.",,Utilities,"NextEra Energy, Inc."
+160,F,Ford Motor Company,,Consumer Cyclical,Ford Motor Company
+161,JANX,"Janux Therapeutics, Inc.",N/A,Healthcare,"Janux Therapeutics, Inc."
+162,VFC,V.F. Corporation,,Consumer Cyclical,V.F. Corporation
+163,CVS,CVS Health Corporation,,Healthcare,CVS Health Corporation
+164,IOT,Samsara Inc.,,Technology,Samsara Inc.
+165,SCHW,Charles Schwab Corporation (The,,Financial Services,The Charles Schwab Corporation
+166,HPQ,HP Inc.,,Technology,HP Inc.
+167,GAP,"Gap, Inc. (The)",,Consumer Cyclical,"The Gap, Inc."
+168,OMEX,"Odyssey Marine Exploration, Inc",,Basic Materials,"Odyssey Marine Exploration, Inc."
+169,Dow 30,,,,
+170,GGAL,Grupo Financiero Galicia S.A.,N/A,Financial Services,Grupo Financiero Galicia S.A.
+171,TRMB,Trimble Inc.,,Technology,Trimble Inc.
+172,CMG,"Chipotle Mexican Grill, Inc.",,Consumer Cyclical,"Chipotle Mexican Grill, Inc."
+173,GE,GE Aerospace,N/A,Industrials,GE Aerospace
+174,V,Visa Inc.,N/A,Financial Services,Visa Inc.
+175,HIMS,"Hims & Hers Health, Inc.",,Consumer Defensive,"Hims & Hers Health, Inc."
+176,FE,FirstEnergy Corp.,,Utilities,FirstEnergy Corp.
+177,SBUX,Starbucks Corporation,,Consumer Cyclical,Starbucks Corporation
+178,GERN,Geron Corporation,,Healthcare,Geron Corporation
+179,DELL,Dell Technologies Inc.,,Technology,Dell Technologies Inc.
+180,JBLU,JetBlue Airways Corporation,,Industrials,JetBlue Airways Corporation
+181,SNAP,Snap Inc.,,Communication Services,Snap Inc.
+182,DVN,Devon Energy Corporation,,Energy,Devon Energy Corporation
+183,ET,Energy Transfer LP,,Energy,Energy Transfer LP
+184,KYMR,"Kymera Therapeutics, Inc.",N/A,Healthcare,"Kymera Therapeutics, Inc."
+185,UPST,"Upstart Holdings, Inc.",,Financial Services,"Upstart Holdings, Inc."
+186,GRAB,Grab Holdings Limited,,Technology,Grab Holdings Limited
+187,APH,Amphenol Corporation,,Technology,Amphenol Corporation
+188,ALTM,Arcadium Lithium plc,,Basic Materials,Arcadium Lithium plc
+189,DECK,Deckers Outdoor Corporation,N/A,Consumer Cyclical,Deckers Outdoor Corporation
+190,UMC,United Microelectronics Corpora,,Technology,United Microelectronics Corporation
+191,MNSO,MINISO Group Holding Limited,,Consumer Cyclical,MINISO Group Holding Limited
+192,KVUE,Kenvue Inc.,,Consumer Defensive,Kenvue Inc.
+193,CPRI,Capri Holdings Limited,,Consumer Cyclical,Capri Holdings Limited
+194,PCG,Pacific Gas & Electric Co.,,Utilities,PG&E Corporation
+195,MO,"Altria Group, Inc.",,Consumer Defensive,"Altria Group, Inc."
+196,PM,Philip Morris International Inc,,Consumer Defensive,Philip Morris International Inc.
+197,Gold,Barrick Gold Corporation,,Basic Materials,Barrick Gold Corporation
+198,BYD,Boyd Gaming Corporation,N/A,Consumer Cyclical,Boyd Gaming Corporation
+199,NET,"Cloudflare, Inc.",,Technology,"Cloudflare, Inc."
+200,LUMN,"Lumen Technologies, Inc.",,Communication Services,"Lumen Technologies, Inc."
+201,ASTS,"AST SpaceMobile, Inc.",,Technology,"AST SpaceMobile, Inc."
+202,TEVA,Teva Pharmaceutical Industries ,,Healthcare,Teva Pharmaceutical Industries Limited
+203,SNOW,Snowflake Inc.,,Technology,Snowflake Inc.
+204,WMT,Walmart Inc.,,Consumer Defensive,Walmart Inc.
+205,JOBY,"Joby Aviation, Inc.",,Industrials,"Joby Aviation, Inc."
+206,CLSK,"CleanSpark, Inc.",,Financial Services,"CleanSpark, Inc."
+207,ACN,Accenture plc,,Technology,Accenture plc
+208,ASX,"ASE Technology Holding Co., Ltd",,Technology,"ASE Technology Holding Co., Ltd."
+209,VIST,Vista Energy S.A.B. de C.V.,N/A,Energy,"Vista Energy, S.A.B. de C.V."
+210,MBLY,Mobileye Global Inc.,,Consumer Cyclical,Mobileye Global Inc.
+211,GGB,Gerdau S.A.,,Basic Materials,Gerdau S.A.
+212,VLY,Valley National Bancorp,,Financial Services,Valley National Bancorp
+213,QCOM,QUALCOMM Incorporated,,Technology,QUALCOMM Incorporated
+214,BSY,"Bentley Systems, Incorporated",,Technology,"Bentley Systems, Incorporated"
+215,AKAM,"Akamai Technologies, Inc.",,Technology,"Akamai Technologies, Inc."
+216,SOL-USD,Solana USD,,,Solana USD
+217,CSX,CSX Corporation,,Industrials,CSX Corporation
+218,DDOG,"Datadog, Inc.",,Technology,"Datadog, Inc."
+219,GOOG,Alphabet Inc.,,Communication Services,Alphabet Inc.
+220,DJTWW,Trump Media & Technology Group ,,Communication Services,Trump Media & Technology Group Corp.
+221,C,"Citigroup, Inc.",,Financial Services,Citigroup Inc.
+222,FSLR,"First Solar, Inc.",,Technology,"First Solar, Inc."
+223,BSX,Boston Scientific Corporation,,Healthcare,Boston Scientific Corporation
+224,U,Unity Software Inc.,,Technology,Unity Software Inc.
+225,VKTX,"Viking Therapeutics, Inc.",N/A,Healthcare,"Viking Therapeutics, Inc."
+226,FTAI,FTAI Aviation Ltd.,N/A,Industrials,FTAI Aviation Ltd.
+227,BOX,"Box, Inc.",,Technology,"Box, Inc."
+228,KGC,Kinross Gold Corporation,,Basic Materials,Kinross Gold Corporation
+229,TYL,"Tyler Technologies, Inc.",,Technology,"Tyler Technologies, Inc."
+230,AAL,"American Airlines Group, Inc.",,Industrials,American Airlines Group Inc.
+231,JPM,JP Morgan Chase & Co.,,Financial Services,JPMorgan Chase & Co.
+232,OWL,Blue Owl Capital Inc.,,Financial Services,Blue Owl Capital Inc.
+233,GEV,GE Vernova Inc.,,Utilities,GE Vernova Inc.
+234,APPF,"AppFolio, Inc.",N/A,Technology,"AppFolio, Inc."
+235,APP,Applovin Corporation,,Technology,AppLovin Corporation
+236,LDOS,"Leidos Holdings, Inc.",,Technology,"Leidos Holdings, Inc."
+237,RIOT,"Riot Platforms, Inc.",,Financial Services,"Riot Platforms, Inc."
+238,PARA,Paramount Global,,Communication Services,Paramount Global
+239,BTE,Baytex Energy Corp,,Energy,Baytex Energy Corp.
+240,NOK,Nokia Corporation Sponsored,,Technology,Nokia Oyj
+241,NEM,Newmont Corporation,,Basic Materials,Newmont Corporation
+242,AVAV,"AeroVironment, Inc.",,Industrials,"AeroVironment, Inc."
+243,NVAX,"Novavax, Inc.",,Healthcare,"Novavax, Inc."
+244,SAVA,"Cassava Sciences, Inc.",,Healthcare,"Cassava Sciences, Inc."
+245,IT,"Gartner, Inc.",,Technology,"Gartner, Inc."
+246,RTX,RTX Corporation,,Industrials,RTX Corporation
+247,IONQ,"IonQ, Inc.",,Technology,"IonQ, Inc."
+248,EXC,Exelon Corporation,,Utilities,Exelon Corporation
+249,DLR,"Digital Realty Trust, Inc.",N/A,Real Estate,"Digital Realty Trust, Inc."
+250,MPW,"Medical Properties Trust, Inc.",,Real Estate,"Medical Properties Trust, Inc."
+251,S&P 500,,,,
+252,IBN,ICICI Bank Limited,,Financial Services,ICICI Bank Limited
+253,ADMA,ADMA Biologics Inc,,Healthcare,"ADMA Biologics, Inc."
+254,ERIC,Ericsson,,Technology,Telefonaktiebolaget LM Ericsson (publ)
+255,YMM,Full Truck Alliance Co. Ltd.,,Technology,Full Truck Alliance Co. Ltd.
+256,NGD,New Gold Inc.,,Basic Materials,New Gold Inc.
+257,LLY,Eli Lilly and Company,N/A,Healthcare,Eli Lilly and Company
+258,PFE,"Pfizer, Inc.",,Healthcare,Pfizer Inc.
+259,STX,Seagate Technology Holdings PLC,,Technology,Seagate Technology Holdings plc
+260,CVNA,Carvana Co.,N/A,Consumer Cyclical,Carvana Co.
+261,RF,Regions Financial Corporation,,Financial Services,Regions Financial Corporation
+262,BAH,Booz Allen Hamilton Holding Cor,N/A,Industrials,Booz Allen Hamilton Holding Corporation
+263,BMA,Banco Macro S.A.,N/A,Financial Services,Banco Macro S.A.
+264,NOW,"ServiceNow, Inc.",,Technology,"ServiceNow, Inc."
+265,ABNB,"Airbnb, Inc.",,Consumer Cyclical,"Airbnb, Inc."
+266,USB,U.S. Bancorp,,Financial Services,U.S. Bancorp
+267,CLF,Cleveland-Cliffs Inc.,,Basic Materials,Cleveland-Cliffs Inc.
+268,HST,"Host Hotels & Resorts, Inc.",,Real Estate,"Host Hotels & Resorts, Inc."
+269,Russell 2000,,,,
+270,TEM,"Tempus AI, Inc.",,Healthcare,"Tempus AI, Inc"
+271,SOFI,"SoFi Technologies, Inc.",,Financial Services,"SoFi Technologies, Inc."
+272,TFC,Truist Financial Corporation,,Financial Services,Truist Financial Corporation
+273,JD,"JD.com, Inc.",,Consumer Cyclical,"JD.com, Inc."
+274,LYG,Lloyds Banking Group Plc,,Financial Services,Lloyds Banking Group plc
+275,IOVA,"Iovance Biotherapeutics, Inc.",,Healthcare,"Iovance Biotherapeutics, Inc."
+276,AQN,Algonquin Power & Utilities Cor,,Utilities,Algonquin Power & Utilities Corp.
+277,PYPL,"PayPal Holdings, Inc.",,Financial Services,"PayPal Holdings, Inc."
+278,BP,BP p.l.c.,,Energy,BP p.l.c.
+279,CSCO,"Cisco Systems, Inc.",,Technology,"Cisco Systems, Inc."
+280,AMZN,"Amazon.com, Inc.",,Consumer Cyclical,"Amazon.com, Inc."
+281,PTPKF,PT PAKUWON JATI,N/A,Real Estate,PT Pakuwon Jati Tbk
+282,HAL,Halliburton Company,,Energy,Halliburton Company
+283,BBAR,Banco BBVA Argentina S.A.,N/A,Financial Services,Banco BBVA Argentina S.A.
+284,ANSS,"ANSYS, Inc.",,Technology,"ANSYS, Inc."
+285,ON,ON Semiconductor Corporation,,Technology,ON Semiconductor Corporation
+286,GM,General Motors Company,,Consumer Cyclical,General Motors Company
+287,ICHBF,INDUSTRIAS CH SAB DE CV,,Basic Materials,"Industrias CH, S. A. B. de C. V."
+288,GOOGL,Alphabet Inc.,,Communication Services,Alphabet Inc.
+289,NOV,NOV Inc.,,Energy,NOV Inc.
+290,S,"SentinelOne, Inc.",,Technology,"SentinelOne, Inc."
+291,VALE,VALE S.A.,,Basic Materials,Vale S.A.
+292,OXY,Occidental Petroleum Corporatio,,Energy,Occidental Petroleum Corporation
+293,CMCSA,Comcast Corporation,,Communication Services,Comcast Corporation
+294,BTI,British American Tobacco  Indus,,Consumer Defensive,British American Tobacco p.l.c.
+295,CELH,"Celsius Holdings, Inc.",,Consumer Defensive,"Celsius Holdings, Inc."
+296,NFE,New Fortress Energy Inc.,,Utilities,New Fortress Energy Inc.
+297,WBD,"Warner Bros. Discovery, Inc. - ",,Communication Services,"Warner Bros. Discovery, Inc."
+298,FCX,"Freeport-McMoRan, Inc.",,Basic Materials,Freeport-McMoRan Inc.
+299,DJT,Trump Media & Technology Group ,,Communication Services,Trump Media & Technology Group Corp.
+300,COMP,"Compass, Inc.",,Real Estate,"Compass, Inc."
+301,RMD,ResMed Inc.,N/A,Healthcare,ResMed Inc.
+302,JBL,Jabil Inc.,,Technology,Jabil Inc.
+303,BKR,Baker Hughes Company,,Energy,Baker Hughes Company
+304,CVE,Cenovus Energy Inc,,Energy,Cenovus Energy Inc.
+305,MSFT,Microsoft Corporation,,Technology,Microsoft Corporation
+306,NYCB,"New York Community Bancorp, Inc",,Financial Services,"New York Community Bancorp, Inc."
+307,MARA,"MARA Holdings, Inc.",,Financial Services,"MARA Holdings, Inc."
+308,Dow Futures,,,,
+309,META,"Meta Platforms, Inc.",,Communication Services,"Meta Platforms, Inc."
+310,WDC,Western Digital Corporation,,Technology,Western Digital Corporation
+311,BMY,Bristol-Myers Squibb Company,,Healthcare,Bristol-Myers Squibb Company
+312,KMI,"Kinder Morgan, Inc.",,Energy,"Kinder Morgan, Inc."
+313,UBER,"Uber Technologies, Inc.",,Technology,"Uber Technologies, Inc."
+314,KAVL,Kaival Brands Innovations Group,,Consumer Defensive,"Kaival Brands Innovations Group, Inc."
+315,MHK,"Mohawk Industries, Inc.",,Consumer Cyclical,"Mohawk Industries, Inc."
+316,HBAN,Huntington Bancshares Incorpora,,Financial Services,Huntington Bancshares Incorporated
+317,NIO,NIO Inc.,,Consumer Cyclical,NIO Inc.
+318,TPR,"Tapestry, Inc.",,Consumer Cyclical,"Tapestry, Inc."
+319,DOGE-USD,Dogecoin USD,,,Dogecoin USD
+320,LBPH,"Longboard Pharmaceuticals, Inc.",N/A,Healthcare,"Longboard Pharmaceuticals, Inc."
+321,AUR,"Aurora Innovation, Inc.",N/A,Technology,"Aurora Innovation, Inc."
+322,DIS,Walt Disney Company (The),,Communication Services,The Walt Disney Company
+323,Crude Oil,,,,
+324,LYFT,"Lyft, Inc.",,Technology,"Lyft, Inc."
+325,KHC,The Kraft Heinz Company,,Consumer Defensive,The Kraft Heinz Company
+326,PLUG,"Plug Power, Inc.",N/A,Industrials,Plug Power Inc.
+327,RIG,Transocean Ltd (Switzerland),,Energy,Transocean Ltd.
+328,UAL,"United Airlines Holdings, Inc.",,Industrials,"United Airlines Holdings, Inc."
+329,BCS,Barclays PLC,,Financial Services,Barclays PLC
+330,VRSN,"VeriSign, Inc.",,Technology,"VeriSign, Inc."
+331,MRVL,"Marvell Technology, Inc.",,Technology,"Marvell Technology, Inc."
+332,LCID,"Lucid Group, Inc.",,Consumer Cyclical,"Lucid Group, Inc."
+333,CDNS,"Cadence Design Systems, Inc.",,Technology,"Cadence Design Systems, Inc."
+334,HR,Healthcare Realty Trust Incorpo,,Real Estate,Healthcare Realty Trust Incorporated
+335,AMAT,"Applied Materials, Inc.",,Technology,"Applied Materials, Inc."
+336,KB,KB Financial Group Inc,N/A,Financial Services,KB Financial Group Inc.
+337,MDT,Medtronic plc.,,Healthcare,Medtronic plc
+338,AMD,"Advanced Micro Devices, Inc.",,Technology,"Advanced Micro Devices, Inc."
+339,ANET,"Arista Networks, Inc.",,Technology,"Arista Networks, Inc."
+340,T,AT&T Inc.,,Communication Services,AT&T Inc.
+341,NLY,Annaly Capital Management Inc.,,Real Estate,"Annaly Capital Management, Inc."
+342,AGNC,AGNC Investment Corp.,,Real Estate,AGNC Investment Corp.
+343,CORZ,"Core Scientific, Inc.",,Technology,"Core Scientific, Inc."
+344,DAL,"Delta Air Lines, Inc.",,Industrials,"Delta Air Lines, Inc."

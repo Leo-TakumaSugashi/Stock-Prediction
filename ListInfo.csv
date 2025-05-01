@@ -1,0 +1,239 @@
+0,EXC,Exelon Corporation,N/A,Utilities
+1,CZR,"Caesars Entertainment, Inc.",N/A,Consumer Cyclical
+2,CVX,Chevron Corporation,N/A,Energy
+3,BZ,KANZHUN LIMITED - American Depo,N/A,Communication Services
+4,OXY,Occidental Petroleum Corporatio,N/A,Energy
+5,CLF,Cleveland-Cliffs Inc.,N/A,Basic Materials
+6,GME,GameStop Corporation,N/A,Consumer Cyclical
+7,SOFI,"SoFi Technologies, Inc.",N/A,Financial Services
+8,KEY,KeyCorp,N/A,Financial Services
+9,NVDA,NVIDIA Corporation,N/A,Technology
+10,MSFT,Microsoft Corporation,N/A,Technology
+11,TME,Tencent Music Entertainment Gro,N/A,Communication Services
+12,BEKE,KE Holdings Inc,N/A,Real Estate
+13,HST,"Host Hotels & Resorts, Inc.",N/A,Real Estate
+14,MRK,"Merck & Company, Inc.",N/A,Healthcare
+15,CCL,Carnival Corporation,N/A,Consumer Cyclical
+16,MRVL,"Marvell Technology, Inc.",N/A,Technology
+17,META,"Meta Platforms, Inc.",N/A,Communication Services
+18,C,"Citigroup, Inc.",N/A,Financial Services
+19,NEM,Newmont Corporation,N/A,Basic Materials
+20,JPM,JP Morgan Chase & Co.,N/A,Financial Services
+21,DXCM,"DexCom, Inc.",N/A,Healthcare
+22,AQN,Algonquin Power & Utilities Cor,N/A,Utilities
+23,Nasdaq Futures,N/A,N/A,N/A
+24,IAG,Iamgold Corporation,N/A,Basic Materials
+25,MBLY,Mobileye Global Inc.,N/A,Consumer Cyclical
+26,CDE,"Coeur Mining, Inc.",N/A,Basic Materials
+27,CMCSA,Comcast Corporation,N/A,Communication Services
+28,NYCB,"New York Community Bancorp, Inc",N/A,Financial Services
+29,OWL,Blue Owl Capital Inc.,N/A,Financial Services
+30,BA,Boeing Company (The),N/A,Industrials
+31,INFY,Infosys Limited,N/A,Technology
+32,UAA,"Under Armour, Inc.",N/A,Consumer Cyclical
+33,RNMBY,Rheinmetall AG,N/A,Industrials
+34,PM,Philip Morris International Inc,N/A,Consumer Defensive
+35,NCLH,Norwegian Cruise Line Holdings ,N/A,Consumer Cyclical
+36,MDT,Medtronic plc.,N/A,Healthcare
+37,AGNC,AGNC Investment Corp.,N/A,Real Estate
+38,COIN,"Coinbase Global, Inc.",N/A,Financial Services
+39,CVE,Cenovus Energy Inc,N/A,Energy
+40,CLSK,"CleanSpark, Inc.",N/A,Financial Services
+41,JD,"JD.com, Inc.",N/A,Consumer Cyclical
+42,LCID,"Lucid Group, Inc.",N/A,Consumer Cyclical
+43,ELAN,Elanco Animal Health Incorporat,N/A,Healthcare
+44,NU,Nu Holdings Ltd.,N/A,Financial Services
+45,NOK,Nokia Corporation Sponsored,N/A,Technology
+46,SLB,Schlumberger N.V.,N/A,Energy
+47,VICI,VICI Properties Inc.,N/A,Real Estate
+48,AAPL,Apple Inc.,N/A,Technology
+49,MRNA,"Moderna, Inc.",N/A,Healthcare
+50,CVS,CVS Health Corporation,N/A,Healthcare
+51,TEM,"Tempus AI, Inc.",N/A,Healthcare
+52,RUN,Sunrun Inc.,N/A,Technology
+53,NKE,"Nike, Inc.",N/A,Consumer Cyclical
+54,TAL,TAL Education Group,N/A,Consumer Defensive
+55,OMEX,"Odyssey Marine Exploration, Inc",N/A,Basic Materials
+56,F,Ford Motor Company,N/A,Consumer Cyclical
+57,NEE,"NextEra Energy, Inc.",N/A,Utilities
+58,X,United States Steel Corporation,N/A,Basic Materials
+59,PATH,"UiPath, Inc.",N/A,Technology
+60,KMI,"Kinder Morgan, Inc.",N/A,Energy
+61,PARA,Paramount Global,N/A,Communication Services
+62,CG,The Carlyle Group Inc.,N/A,Financial Services
+63,DKNG,DraftKings Inc.,N/A,Consumer Cyclical
+64,U,Unity Software Inc.,N/A,Technology
+65,BBD,Banco Bradesco Sa,N/A,Financial Services
+66,GOOG,Alphabet Inc.,N/A,Communication Services
+67,WMT,Walmart Inc.,N/A,Consumer Defensive
+68,WDC,Western Digital Corporation,N/A,Technology
+69,TSM,Taiwan Semiconductor Manufactur,N/A,Technology
+70,ABEV,Ambev S.A.,N/A,Consumer Defensive
+71,JNPR,"Juniper Networks, Inc.",N/A,Technology
+72,EBAY,eBay Inc.,N/A,Consumer Cyclical
+73,ASTS,"AST SpaceMobile, Inc.",N/A,Technology
+74,BP,BP p.l.c.,N/A,Energy
+75,YMM,Full Truck Alliance Co. Ltd.,N/A,Technology
+76,BTG,B2Gold Corp,N/A,Basic Materials
+77,AMD,"Advanced Micro Devices, Inc.",N/A,Technology
+78,NUVL,"Nuvalent, Inc.",N/A,Healthcare
+79,BTE,Baytex Energy Corp,N/A,Energy
+80,PSNY,Polestar Automotive Holding UK ,N/A,Consumer Cyclical
+81,LUNR,"Intuitive Machines, Inc.",N/A,Industrials
+82,IBN,ICICI Bank Limited,N/A,Financial Services
+83,WFC,Wells Fargo & Company,N/A,Financial Services
+84,AMZN,"Amazon.com, Inc.",N/A,Consumer Cyclical
+85,COMP,"Compass, Inc.",N/A,Real Estate
+86,PCG,Pacific Gas & Electric Co.,N/A,Utilities
+87,UBER,"Uber Technologies, Inc.",N/A,Technology
+88,WBA,"Walgreens Boots Alliance, Inc.",N/A,Healthcare
+89,LUMN,"Lumen Technologies, Inc.",N/A,Communication Services
+90,SWN,Southwestern Energy Company,N/A,Energy
+91,KSS,Kohl's Corporation,N/A,Consumer Cyclical
+92,GM,General Motors Company,N/A,Consumer Cyclical
+93,DIS,Walt Disney Company (The),N/A,Communication Services
+94,ERIC,Ericsson,N/A,Technology
+95,KVUE,Kenvue Inc.,N/A,Consumer Defensive
+96,HAL,Halliburton Company,N/A,Energy
+97,GGB,Gerdau S.A.,N/A,Basic Materials
+98,NVAX,"Novavax, Inc.",N/A,Healthcare
+99,BSX,Boston Scientific Corporation,N/A,Healthcare
+100,HIMS,"Hims & Hers Health, Inc.",N/A,Consumer Defensive
+101,HBAN,Huntington Bancshares Incorpora,N/A,Financial Services
+102,NFE,New Fortress Energy Inc.,N/A,Utilities
+103,HOOD,"Robinhood Markets, Inc.",N/A,Financial Services
+104,ORCL,Oracle Corporation,N/A,Technology
+105,ROKU,"Roku, Inc.",N/A,Communication Services
+106,XPEV,XPeng Inc.,N/A,Consumer Cyclical
+107,HPE,Hewlett Packard Enterprise Comp,N/A,Technology
+108,ALTM,Arcadium Lithium plc,N/A,Basic Materials
+109,GILD,"Gilead Sciences, Inc.",N/A,Healthcare
+110,TSLA,"Tesla, Inc.",N/A,Consumer Cyclical
+111,Dow Futures,N/A,N/A,N/A
+112,Gold,Barrick Gold Corporation,N/A,Basic Materials
+113,NLY,Annaly Capital Management Inc.,N/A,Real Estate
+114,PR,Permian Resources Corporation,N/A,Energy
+115,APP,Applovin Corporation,N/A,Technology
+116,SYM,Symbotic Inc.,N/A,Industrials
+117,CX,"Cemex, S.A.B. de C.V. Sponsored",N/A,Basic Materials
+118,LYG,Lloyds Banking Group Plc,N/A,Financial Services
+119,GLMD,Galmed Pharmaceuticals Ltd.,N/A,Healthcare
+120,HL,Hecla Mining Company,N/A,Basic Materials
+121,NWL,Newell Brands Inc.,N/A,Consumer Defensive
+122,GERN,Geron Corporation,N/A,Healthcare
+123,RIVN,"Rivian Automotive, Inc.",N/A,Consumer Cyclical
+124,RBLX,Roblox Corporation,N/A,Communication Services
+125,PBR,Petroleo Brasileiro S.A.- Petro,N/A,Energy
+126,BCS,Barclays PLC,N/A,Financial Services
+127,DAL,"Delta Air Lines, Inc.",N/A,Industrials
+128,BKR,Baker Hughes Company,N/A,Energy
+129,RF,Regions Financial Corporation,N/A,Financial Services
+130,PDD,PDD Holdings Inc.,N/A,Consumer Cyclical
+131,GOLD,Barrick Gold Corporation,N/A,Basic Materials
+132,SIRI,SiriusXM Holdings Inc.,N/A,Communication Services
+133,IEP,Icahn Enterprises L.P. - Deposi,N/A,Energy
+134,VST,Vistra Corp.,N/A,Utilities
+135,VTRS,Viatris Inc.,N/A,Healthcare
+136,TEVA,Teva Pharmaceutical Industries ,N/A,Healthcare
+137,HPQ,HP Inc.,N/A,Technology
+138,VZ,Verizon Communications Inc.,N/A,Communication Services
+139,AMCR,Amcor plc,N/A,Consumer Cyclical
+140,UMC,United Microelectronics Corpora,N/A,Technology
+141,MSTR,MicroStrategy Incorporated,N/A,Technology
+142,ADBE,Adobe Inc.,N/A,Technology
+143,MARA,"MARA Holdings, Inc.",N/A,Financial Services
+144,PYPL,"PayPal Holdings, Inc.",N/A,Financial Services
+145,LYFT,"Lyft, Inc.",N/A,Technology
+146,SNAP,Snap Inc.,N/A,Communication Services
+147,UAL,"United Airlines Holdings, Inc.",N/A,Industrials
+148,NOV,NOV Inc.,N/A,Energy
+149,GDS,GDS Holdings Limited,N/A,Technology
+150,TFC,Truist Financial Corporation,N/A,Financial Services
+151,UPST,"Upstart Holdings, Inc.",N/A,Financial Services
+152,CORZ,"Core Scientific, Inc.",N/A,Technology
+153,SCHW,Charles Schwab Corporation (The,N/A,Financial Services
+154,CSX,CSX Corporation,N/A,Industrials
+155,EW,Edwards Lifesciences Corporatio,N/A,Healthcare
+156,CELH,"Celsius Holdings, Inc.",N/A,Consumer Defensive
+157,CMG,"Chipotle Mexican Grill, Inc.",N/A,Consumer Cyclical
+158,PEP,"Pepsico, Inc.",N/A,Consumer Defensive
+159,ASX,"ASE Technology Holding Co., Ltd",N/A,Technology
+160,AFRM,"Affirm Holdings, Inc.",N/A,Technology
+161,S&P Futures,N/A,N/A,N/A
+162,PLTR,Palantir Technologies Inc.,N/A,Technology
+163,BTI,British American Tobacco  Indus,N/A,Consumer Defensive
+164,KO,Coca-Cola Company (The),N/A,Consumer Defensive
+165,JBLU,JetBlue Airways Corporation,N/A,Industrials
+166,ITUB,Itau Unibanco Banco Holding SA,N/A,Financial Services
+167,VLY,Valley National Bancorp,N/A,Financial Services
+168,INTC,Intel Corporation,N/A,Technology
+169,SBSW,D/B/A Sibanye-Stillwater Limite,N/A,Basic Materials
+170,ZI,ZoomInfo Technologies Inc.,N/A,Technology
+171,SBUX,Starbucks Corporation,N/A,Consumer Cyclical
+172,BABA,Alibaba Group Holding Limited,N/A,Consumer Cyclical
+173,QCOM,QUALCOMM Incorporated,N/A,Technology
+174,AVGO,Broadcom Inc.,N/A,Technology
+175,RTX,RTX Corporation,N/A,Industrials
+176,PINS,"Pinterest, Inc.",N/A,Communication Services
+177,FCX,"Freeport-McMoRan, Inc.",N/A,Basic Materials
+178,T,AT&T Inc.,N/A,Communication Services
+179,XOM,Exxon Mobil Corporation,N/A,Energy
+180,DVN,Devon Energy Corporation,N/A,Energy
+181,S,"SentinelOne, Inc.",N/A,Technology
+182,BOX,"Box, Inc.",N/A,Technology
+183,ET,Energy Transfer LP,N/A,Energy
+184,KDP,Keurig Dr Pepper Inc.,N/A,Consumer Defensive
+185,STLA,Stellantis N.V.,N/A,Consumer Cyclical
+186,PINXF,THE PEOPLE S INSURANCE COMPANY ,N/A,Financial Services
+187,Crude Oil,N/A,N/A,N/A
+188,AES,The AES Corporation,N/A,Utilities
+189,COP,ConocoPhillips,N/A,Energy
+190,KGC,Kinross Gold Corporation,N/A,Basic Materials
+191,AAL,"American Airlines Group, Inc.",N/A,Industrials
+192,PFE,"Pfizer, Inc.",N/A,Healthcare
+193,SAVA,"Cassava Sciences, Inc.",N/A,Healthcare
+194,CSCO,"Cisco Systems, Inc.",N/A,Technology
+195,FHN,First Horizon Corporation,N/A,Financial Services
+196,NGD,New Gold Inc.,N/A,Basic Materials
+197,MPW,"Medical Properties Trust, Inc.",N/A,Real Estate
+198,ARM,Arm Holdings plc,N/A,Technology
+199,BILI,Bilibili Inc.,N/A,Communication Services
+200,GEV,GE Vernova Inc.,N/A,Utilities
+201,VFC,V.F. Corporation,N/A,Consumer Cyclical
+202,HBI,Hanesbrands Inc.,N/A,Consumer Cyclical
+203,MU,"Micron Technology, Inc.",N/A,Technology
+204,MO,"Altria Group, Inc.",N/A,Consumer Defensive
+205,IOT,Samsara Inc.,N/A,Technology
+206,RIOT,"Riot Platforms, Inc.",N/A,Financial Services
+207,PAGS,PagSeguro Digital Ltd.,N/A,Technology
+208,NIO,NIO Inc.,N/A,Consumer Cyclical
+209,HR,Healthcare Realty Trust Incorpo,N/A,Real Estate
+210,WBD,"Warner Bros. Discovery, Inc. - ",N/A,Communication Services
+211,LI,Li Auto Inc.,N/A,Consumer Cyclical
+212,VOD,Vodafone Group Plc,N/A,Communication Services
+213,RIG,Transocean Ltd (Switzerland),N/A,Energy
+214,MNST,Monster Beverage Corporation,N/A,Consumer Defensive
+215,DELL,Dell Technologies Inc.,N/A,Technology
+216,GSAT,"Globalstar, Inc.",N/A,Communication Services
+217,ROIV,Roivant Sciences Ltd.,N/A,Healthcare
+218,USB,U.S. Bancorp,N/A,Financial Services
+219,VALE,VALE S.A.,N/A,Basic Materials
+220,SHOP,Shopify Inc.,N/A,Technology
+221,GRAB,Grab Holdings Limited,N/A,Technology
+222,IBM,International Business Machines,N/A,Technology
+223,DOC,"Healthpeak Properties, Inc.",N/A,Real Estate
+224,ABNB,"Airbnb, Inc.",N/A,Consumer Cyclical
+225,SMMT,Summit Therapeutics Inc.,N/A,Healthcare
+226,BMY,Bristol-Myers Squibb Company,N/A,Healthcare
+227,Russell 2000 Futures,N/A,N/A,N/A
+228,FE,FirstEnergy Corp.,N/A,Utilities
+229,CNH,CNH Industrial N.V.,N/A,Industrials
+230,ADMA,ADMA Biologics Inc,N/A,Healthcare
+231,DJT,Trump Media & Technology Group ,N/A,Communication Services
+232,RKLB,"Rocket Lab USA, Inc.",N/A,Industrials
+233,BAC,Bank of America Corporation,N/A,Financial Services
+234,GOOGL,Alphabet Inc.,N/A,Communication Services
+235,KHC,The Kraft Heinz Company,N/A,Consumer Defensive
+236,AA,Alcoa Corporation,N/A,Basic Materials
+237,IOVA,"Iovance Biotherapeutics, Inc.",N/A,Healthcare
+238,GAP,"Gap, Inc. (The)",N/A,Consumer Cyclical

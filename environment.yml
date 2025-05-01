@@ -1,0 +1,11 @@
+name: LSTM-Stock
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - anaconda::beautifulsoup4
+  - pandas
+  - scikit-learn
+  - ipython
+  - matplotlib
+prefix: /home/pyt/anaconda3/envs/LSTM-Stock

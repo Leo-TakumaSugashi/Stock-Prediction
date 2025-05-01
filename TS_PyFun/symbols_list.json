@@ -1,0 +1,47 @@
+[
+    {
+        "Symbol": "MSFT",
+        "Name": "Microsoft Corporation",
+        "Market": "N/A",
+        "Sector": "Technology",
+        "start-Date": [],
+        "end-Date": [],
+        "create-Date": []
+    },
+    {
+        "Symbol": "GOOGL",
+        "Name": "Alphabet Inc.",
+        "Market": "N/A",
+        "Sector": "Communication Services",
+        "start-Date": [],
+        "end-Date": [],
+        "create-Date": []
+    },
+    {
+        "Symbol": "AMZN",
+        "Name": "Amazon.com, Inc.",
+        "Market": "N/A",
+        "Sector": "Consumer Cyclical",
+        "start-Date": [],
+        "end-Date": [],
+        "create-Date": []
+    },
+    {
+        "Symbol": "TSLA",
+        "Name": "Tesla, Inc.",
+        "Market": "N/A",
+        "Sector": "Consumer Cyclical",
+        "start-Date": [],
+        "end-Date": [],
+        "create-Date": []
+    },
+    {
+        "Symbol": "TSM",
+        "Name": "Taiwan Semiconductor Manufactur",
+        "Market": "N/A",
+        "Sector": "Technology",
+        "start-Date": [],
+        "end-Date": [],
+        "create-Date": []
+    }
+]
